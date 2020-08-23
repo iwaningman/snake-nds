@@ -1,7 +1,7 @@
 /* 
 -----------------------------------------------
 Test Game by Iwan Ingman (https://iwaningman.com)
-Created on 14th of August 2020.
+Created on 24th of August 2020.
 Also my first C++ Program so yay.
 -----------------------------------------------
 */
